@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+}
+
+.plot-content {
+	margin-top: 50px;
+	margin-bottom: 60px;
+	padding: 10px 30px 5px;
+	color: black;
+	background-color:cadetblue;
+}
+
+#image {
+	float: left;
+	width: 100%;
+	height: 100%;
+}
